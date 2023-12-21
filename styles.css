@@ -11,6 +11,8 @@ header {
     margin-bottom: 20px;
     text-align: center;
     text-decoration: underline;
+    width:100%;
+    position:fixed;
 }
 
 h1 {
@@ -23,6 +25,7 @@ main {
     flex-direction: row;
     justify-content: center;
     font-family: 'Abril Fatface', cursive;
+    padding-top:100px;
 }
 
 .working-area {
